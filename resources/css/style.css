@@ -39,7 +39,7 @@ html {
 h1 {
     margin-top: 0;
     margin-bottom: 20px;
-    color: #fff;
+    color: #484545;
     font-size: 240%;
     font-weight: 400;
     text-transform: uppercase;
@@ -48,7 +48,7 @@ h1 {
 }
 
 .hero-text-box p {
-    color: #fff;
+    color: #484545;
     margin-bottom: 20px;
 }
 
@@ -88,7 +88,7 @@ h1 {
 /* ---------------------------------------------------- */
 
 header {
-    background-image: url(img/rsvp.jpg);
+    background-image: url(img/header.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
