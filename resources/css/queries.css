@@ -33,7 +33,7 @@
     .program-feature-image img {
         height: 350px;
     }
-
+    .col { margin: 1% 0 1% 0; }
 }
 
 /* for small phones 0 to 480px */
