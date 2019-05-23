@@ -93,5 +93,14 @@
     .program-section-area {
         height: 37vh;
     }
+    .program-one-details h3 {
+        font-size: 150%;
+    }
+
+    .program-section-area {
+        background-size: 190px 209px;
+        background-position: left top, right bottom;
+        height: 50vh;
+    }
 }
 

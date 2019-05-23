@@ -264,10 +264,11 @@ header {
 /* PROGRAM SECTION AREA */
 /* ---------------------------------------------------- */
 .program-section-area {
-    background: url(img/program-bg2.png) no-repeat;
-    background-size: cover;
-    background-position: center center;
-    height: 100vh;
+    background: url(img/program-bg.png), url(img/program-bg3.png);
+    background-size: auto;
+    background-position: left top, right bottom;
+    background-repeat: no-repeat;
+    height: 60vh;
 }
 
 .program-one-details h3 {
