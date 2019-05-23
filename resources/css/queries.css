@@ -56,8 +56,30 @@
 
     header { height: 37vh; }
     .logo { height: 50px; }
-    .hero-text-box { padding: 0 14%; top: 22%; }
-    .hero-text-box p { padding: 0 15px; text-align: center; font-size: 11px; }
-    h1 { text-align: center; font-size: 70%; }
+    .hero-text-box { padding: 0 4%; top: 22%; }
+    .hero-text-box p { padding: 0 15px; text-align: center; font-size: 14px; }
+    h1 { 
+        text-align: center; 
+        font-size: 91%;
+        color: #222222;
+        font-weight: bold; 
+    }
+    .section-title h2 {
+        font-size: 150%;
+    }
+    .section-title p { padding: 0; font-size: 15px;}
+    .row { padding:  0 5%; }
+    .row-fix { padding: 0; }
+    .main-our-story { 
+        margin-top: 10px;
+        background-size: 95px 227px;
+        height: 217px; 
+    }
+    .content h3::after {
+        left: 86px;
+    }
+    .content h3 { color: #222222; }
+    .content p { font-size: 15px; padding: 0 5%; }
+    .our-story-picture { padding:  0 5%; }
 }
 
