@@ -60,6 +60,10 @@
         background-position: left top, right bottom;
         height: 100vh;
     }
+    .clothes-area {
+        height: 50vh;
+        background-size: 150px 150px;
+    }
 }
 
 /* for small phones 0 to 480px */
@@ -106,6 +110,11 @@
         background-size: 190px 209px;
         background-position: left top, right bottom;
         height: 50vh;
+    }
+
+    .clothes-area {
+        height: 50vh;
+        background-size: 80px 80px;
     }
 }
 

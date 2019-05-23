@@ -269,69 +269,33 @@ header {
     background-position: left top, right bottom;
     background-repeat: no-repeat;
     height: 60vh;
+    margin-top: 10px;
 }
 
 .program-one-details h3 {
     font-size: 200%;
 }
 
-.program-section-area .owl-wrapper .owl-item {
-    width: 1140px;
+/* ---------------------------------------------------- */
+/* CLOTHING SECTION AREA */
+/* ---------------------------------------------------- */
+
+.clothes-area {
+    background: url(img/vestuario-bg.png) no-repeat;
+    height: 100vh;
+    margin-top: 30px;
 }
 
-.program-details {
-    background: #27ae60;
-    padding: 54px 0;
-    height: 530px;
+.clothes-details {
+    width: 300px;
+    float: right;
+    text-align: center;
 }
 
-.program-details h3 {
-    font-size: 30px;
-    font-weight: 700;
-    color: #fff;
-    text-transform: uppercase;
-    margin-bottom: 10px;
+.galery-area {
+    padding: 0 12%;
 }
 
-.program-details p {
-    font-size: 20px;
-    color: #fff;
-}
-
-.program-details span {
-    background: url(img/date.png) no-repeat;
-    background-position: center center;
-    background-size: cover;
-    width: 335px;
-    height: 35px;
-    display: block;
-    margin: 15px auto;
-    font-weight: 600;
-    color: #222222;
-    font-size: 17px;
-}
-
-.program-feature-image {
-    position: relative;
-    overflow: hidden;
-}
-
-.program-feature-image img {
+.galery-area img {
     width: 100%;
-    max-width: 100%;
-    height: 480px;
-    vertical-align: middle;
-    border: 0;
-}
-
-.program-details h4 {
-    font-size: 30px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: #ffffff;
-    border: 1px dotted #ffffff;
-    display: inline-block;
-    padding: 15px 40px;
-    position: relative;
-    margin-bottom: 10px;
 }
