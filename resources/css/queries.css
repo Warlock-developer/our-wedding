@@ -94,7 +94,7 @@
         height: 217px; 
     }
     .content h3::after {
-        left: 86px;
+        left: 107px;
     }
     .content h3 { color: #222222; }
     .content p { font-size: 15px; padding: 0 5%; }

@@ -263,6 +263,14 @@ header {
 /* ---------------------------------------------------- */
 /* PROGRAM SECTION AREA */
 /* ---------------------------------------------------- */
+.program-section-title .content h3::after{
+    left: 86px;
+}
+
+.program-section-title {
+    margin-bottom: 25px;
+}
+
 .program-section-area {
     background: url(img/program-bg.png), url(img/program-bg3.png);
     background-size: auto;
