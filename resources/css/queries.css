@@ -55,6 +55,11 @@
     .row-fix { padding: 0; }
     .content p { font-size: 18px; padding: 0 5%; }
     .our-story-picture { padding:  0 5%; }
+    .program-section-area {
+        background-size: 190px 209px;
+        background-position: left top, right bottom;
+        height: 100vh;
+    }
 }
 
 /* for small phones 0 to 480px */
