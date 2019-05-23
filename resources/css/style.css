@@ -11,7 +11,7 @@
 html {
     background-color: #fff;
     color: #555;
-    font-family: 'lato', 'Arial', sans-serif;
+    font-family: 'Reem Kufi', 'Arial', sans-serif;
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
@@ -40,6 +40,7 @@ h1 {
     margin-top: 0;
     margin-bottom: 20px;
     color: #484545;
+    font-family: 'Playfair Display', 'Arial', 'sans-serif';
     font-size: 280%;
     font-weight: 400;
     text-transform: uppercase;
@@ -48,7 +49,6 @@ h1 {
 }
 
 .hero-text-box p {
-    color: #484545;
     margin-bottom: 20px;
     font-size: 30px;
     text-align: center;
@@ -145,7 +145,7 @@ header {
 
 .section-our-story {
     padding: 100px 0 0px 0;
-    background: #f8f8f8;
+    background: #fff;
 }
 
 .main-our-story {
@@ -153,28 +153,17 @@ header {
 }
 
 .section-title h2 {
-    font-weight: 700;
     color: #222222;
     position: relative;
-    margin-bottom: 70px;
+    margin-bottom: 10px;
+    font-family: 'Playfair Display', 'Arial', 'sans-serif';
     font-size: 200%;
-    text-transform: uppercase;
-}
-
-.section-title h2::after{
-    position: absolute;
-    bottom: -40px;
-    left: 0;
-    right: 0;
-    margin: auto;
-    width: 275px;
-    height: 30px;
-    background: url(img/title-line.png) no-repeat;
-    content: "";
 }
 
 .section-title p {
     color: #646464;
+    font-size: 25px;
+    padding: 0 26%;
 }
 
 .our-story-picture img {
@@ -224,6 +213,38 @@ header {
 
 .section-our-story .main-our-story .date-content-list ul li .content p {
     margin-bottom: 15px;
+}
+
+.content h3 {
+    font-family: 'Playfair Display', 'Arial', 'sans-serif';
+    text-align: center;
+    position: relative;
+    font-size: 160%;
+}
+
+.content h3::after {
+    position: absolute;
+    bottom: -56px;
+    left: 131px;
+    right: 0;
+    margin: auto;
+    width: 275px;
+    height: 60px;
+    background: url(img/decorator.png) no-repeat;
+    background-size: 148px 55px;
+    content: "";
+}
+
+
+.content h4 {
+    text-align: center;
+    margin-top: 57px;
+    margin-bottom: 10px;
+    font-size: 126%;
+}
+
+.content p {
+    text-align: center;
 }
 
 /* ---------------------------------------------------- */
