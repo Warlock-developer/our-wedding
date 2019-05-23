@@ -67,6 +67,10 @@
     .program-section-title .content h3::after{
         left: 123px;
     }
+
+    .program-one-details {
+        padding-left: 0;
+    }
 }
 
 /* for small phones 0 to 480px */
@@ -109,6 +113,10 @@
         font-size: 150%;
     }
 
+    .program-one-details {
+        padding-left: 18px;
+    }
+
     .program-section-area {
         background-size: 190px 209px;
         background-position: left top, right bottom;
@@ -121,7 +129,7 @@
     }
 
     .program-section-title .content h3::after{
-        left: 109px;
+        left: 86px;
     }
 }
 
