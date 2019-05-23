@@ -64,6 +64,9 @@
         height: 50vh;
         background-size: 150px 150px;
     }
+    .program-section-title .content h3::after{
+        left: 123px;
+    }
 }
 
 /* for small phones 0 to 480px */
