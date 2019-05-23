@@ -116,5 +116,9 @@
         height: 50vh;
         background-size: 80px 80px;
     }
+
+    .program-section-title .content h3::after{
+        left: 109px;
+    }
 }
 
