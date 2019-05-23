@@ -30,6 +30,14 @@ html {
     text-align: center;
 }
 
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
 .acurate {
     margin: 0;
     padding: 0;
@@ -256,10 +264,14 @@ header {
 /* PROGRAM SECTION AREA */
 /* ---------------------------------------------------- */
 .program-section-area {
-    padding: 120px 0;
-    background: url(img/program-bg.jpg) no-repeat;
+    background: url(img/program-bg2.png) no-repeat;
     background-size: cover;
     background-position: center center;
+    height: 100vh;
+}
+
+.program-one-details h3 {
+    font-size: 200%;
 }
 
 .program-section-area .owl-wrapper .owl-item {

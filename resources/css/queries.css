@@ -90,5 +90,8 @@
     .content h3 { color: #222222; }
     .content p { font-size: 15px; padding: 0 5%; }
     .our-story-picture { padding:  0 5%; }
+    .program-section-area {
+        height: 37vh;
+    }
 }
 
