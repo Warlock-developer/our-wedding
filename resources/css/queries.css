@@ -71,6 +71,10 @@
     .program-one-details {
         padding-left: 0;
     }
+
+    .sobre {
+        width: 5%;
+    }
 }
 
 /* for small phones 0 to 480px */
@@ -130,6 +134,10 @@
 
     .program-section-title .content h3::after{
         left: 86px;
+    }
+
+    .sobre {
+        width: 10%;
     }
 }
 
